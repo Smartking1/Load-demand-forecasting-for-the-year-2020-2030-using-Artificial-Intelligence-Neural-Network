@@ -1,5 +1,5 @@
-# Electrical Load-demand-using-Artificial-Neural-Network
-# BreadcrumbsLoad-demand-forecasting-for-the-year-2020-2030-using-Artificial-Intelligence-Neural-Network
+
+# Electric Load-demand-forecasting-for-the-year-2020-2030-using-Artificial-Intelligence-Neural-Network
 
 ## Project Overview
 
